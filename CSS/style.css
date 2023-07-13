@@ -12,7 +12,7 @@ body {
     background-color: pink;
 }
 
-#first-section, #second-section {
+#first-section, #second-section, footer {
     padding: 1.7rem 20rem 0;
 }
 
@@ -22,7 +22,7 @@ body {
     margin-block-end: 1.7rem;
 }
 
-.nav-logo {
+.logo {
     width: 80px;
 }
 
@@ -102,4 +102,12 @@ p {
 .content-title {
     font-size: 2.2rem;
     margin-bottom: 0;
+}
+
+/* Footer  */
+
+footer {
+    margin-block: 2rem;
+    display: flex;
+    justify-content: space-between;
 }
