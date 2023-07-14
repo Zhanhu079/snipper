@@ -9,7 +9,6 @@ body {
 #first-section {
     background-image: url(/Assets/Background.png);
     background-size: cover;
-    background-color: pink;
 }
 
 #first-section, #second-section, footer {
